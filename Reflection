@@ -1,0 +1,14 @@
+1. What was your primary contribution to the project?
+Cole Rogers: I set up the RPi and made the code to run the project.
+
+2. What was the most challenging technical problem your team encountered?
+Cole Rogers: The most challenging technical problem was getting the led code to work with the temperature code.
+
+3. How did your team use testing or debugging to solve a problem?
+Cole Rogers: I used debugging technics to find out why the led code wasn’t working when put with the temperature code.
+
+4. Which skills from CSE 1106 were most useful?
+Cole Rogers: The skills of how to set up and use a RPi.
+
+5. What would you improve if you had more time?
+Cole Rogers: I would work and error handling for the code like if the user doesn’t input number and other cases like that.
