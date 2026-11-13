@@ -10,4 +10,3 @@ In this final we will demonstrate how to use a "Smart Classroom Comfort Monitor"
 
 
 Lauryn Reynolds and Cole Rogers
-
