@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 Project Description
 -
 
@@ -18,5 +17,3 @@ Project Requirements
 - Save temperature readings and their statuses to a file.
 - Use an LED connected to the Raspberry Pi to indicate a warning condition.
 - Allow the acceptable temperature range to be changed according to a new client requirement. 
->>>>>>> origin/docs
-
