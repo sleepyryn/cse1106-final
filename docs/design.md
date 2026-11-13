@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 Design
 - 
 1. Prompt user to enter the number of temperature readings they want to use.
@@ -8,5 +7,5 @@ Design
 3. Determine whether it is within range or not.
 4. If accepted continue, if not accepted print error.
 5. Compare results with expected results.
->>>>>>> origin/docs
+
 
